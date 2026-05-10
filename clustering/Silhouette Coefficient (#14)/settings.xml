@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+    <entry key="node_file" type="xstring" value="settings.xml"/>
+    <config key="flow_stack"/>
+    <config key="internal_node_subsettings">
+        <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+    </config>
+    <config key="model">
+        <config key="data_columns">
+            <entry key="filter-type" type="xstring" value="STANDARD"/>
+            <config key="included_names">
+                <entry key="array-size" type="xint" value="38"/>
+                <entry key="0" type="xstring" value="Age"/>
+                <entry key="1" type="xstring" value="Height"/>
+                <entry key="2" type="xstring" value="Weight"/>
+                <entry key="3" type="xstring" value="FCVC"/>
+                <entry key="4" type="xstring" value="NCP"/>
+                <entry key="5" type="xstring" value="CH2O"/>
+                <entry key="6" type="xstring" value="FAF"/>
+                <entry key="7" type="xstring" value="TUE"/>
+                <entry key="8" type="xstring" value="Female_Gender"/>
+                <entry key="9" type="xstring" value="Male_Gender"/>
+                <entry key="10" type="xstring" value="yes_family_history_with_overweight"/>
+                <entry key="11" type="xstring" value="no_family_history_with_overweight"/>
+                <entry key="12" type="xstring" value="no_FAVC"/>
+                <entry key="13" type="xstring" value="yes_FAVC"/>
+                <entry key="14" type="xstring" value="Sometimes_CAEC"/>
+                <entry key="15" type="xstring" value="Frequently_CAEC"/>
+                <entry key="16" type="xstring" value="Always_CAEC"/>
+                <entry key="17" type="xstring" value="no_CAEC"/>
+                <entry key="18" type="xstring" value="no_SMOKE"/>
+                <entry key="19" type="xstring" value="yes_SMOKE"/>
+                <entry key="20" type="xstring" value="no_SCC"/>
+                <entry key="21" type="xstring" value="yes_SCC"/>
+                <entry key="22" type="xstring" value="no_CALC"/>
+                <entry key="23" type="xstring" value="Sometimes_CALC"/>
+                <entry key="24" type="xstring" value="Frequently_CALC"/>
+                <entry key="25" type="xstring" value="Always_CALC"/>
+                <entry key="26" type="xstring" value="Public_Transportation_MTRANS"/>
+                <entry key="27" type="xstring" value="Walking_MTRANS"/>
+                <entry key="28" type="xstring" value="Automobile_MTRANS"/>
+                <entry key="29" type="xstring" value="Motorbike_MTRANS"/>
+                <entry key="30" type="xstring" value="Bike_MTRANS"/>
+                <entry key="31" type="xstring" value="Normal_Weight_NObeyesdad"/>
+                <entry key="32" type="xstring" value="Overweight_Level_I_NObeyesdad"/>
+                <entry key="33" type="xstring" value="Overweight_Level_II_NObeyesdad"/>
+                <entry key="34" type="xstring" value="Obesity_Type_I_NObeyesdad"/>
+                <entry key="35" type="xstring" value="Insufficient_Weight_NObeyesdad"/>
+                <entry key="36" type="xstring" value="Obesity_Type_II_NObeyesdad"/>
+                <entry key="37" type="xstring" value="Obesity_Type_III_NObeyesdad"/>
+            </config>
+            <config key="excluded_names">
+                <entry key="array-size" type="xint" value="0"/>
+            </config>
+            <entry key="enforce_option" type="xstring" value="EnforceExclusion"/>
+            <config key="name_pattern">
+                <entry key="pattern" type="xstring" value=""/>
+                <entry key="caseSensitive" type="xboolean" value="true"/>
+                <entry key="excludeMatching" type="xboolean" value="false"/>
+                <entry key="type" type="xstring" value="Wildcard"/>
+            </config>
+            <config key="datatype">
+                <config key="typelist"/>
+            </config>
+        </config>
+        <entry key="cluster_column" type="xstring" value="Cluster"/>
+    </config>
+    <config key="variables"/>
+    <entry key="customDescription" type="xstring" isnull="true" value=""/>
+    <entry key="state" type="xstring" value="IDLE"/>
+    <config key="nodecontainer_message">
+        <entry key="type" type="xstring" value="WARNING"/>
+        <entry key="message" type="xstring" value="The selected clustering column 'Cluster' does not have domain information available. Execute preceding nodes or use a Domain Calculator to calculate its domain."/>
+    </config>
+    <entry key="factory" type="xstring" value="org.knime.base.node.mine.cluster.eval.silhouette.SilhouetteCoefficientNodeFactory"/>
+    <entry key="node-name" type="xstring" value="Silhouette Coefficient"/>
+    <entry key="node-bundle-name" type="xstring" value="KNIME Distance Matrix Extension"/>
+    <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.distmatrix"/>
+    <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+    <entry key="node-bundle-version" type="xstring" value="5.11.0.v202602191530"/>
+    <entry key="node-feature-name" type="xstring" isnull="true" value=""/>
+    <entry key="node-feature-symbolic-name" type="xstring" isnull="true" value=""/>
+    <entry key="node-feature-vendor" type="xstring" isnull="true" value=""/>
+    <entry key="node-feature-version" type="xstring" value="0.0.0"/>
+    <config key="factory_settings"/>
+    <entry key="name" type="xstring" value="Silhouette Coefficient"/>
+    <entry key="hasContent" type="xboolean" value="false"/>
+    <entry key="isInactive" type="xboolean" value="false"/>
+    <config key="ports">
+        <config key="port_1">
+            <entry key="index" type="xint" value="1"/>
+            <entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+        </config>
+        <config key="port_2">
+            <entry key="index" type="xint" value="2"/>
+            <entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+        </config>
+    </config>
+    <config key="filestores">
+        <entry key="file_store_location" type="xstring" isnull="true" value=""/>
+        <entry key="file_store_id" type="xstring" isnull="true" value=""/>
+    </config>
+</config>

@@ -1,2 +1,62 @@
-2026/05/08-12:07:12.590 18d03 Creating DB /Users/tomstehling/AAMD-26-Project/.metadata/.plugins/com.equo.chromium/cefcache/Default/shared_proto_db since it was missing.
-2026/05/08-12:07:12.608 18d03 Reusing MANIFEST /Users/tomstehling/AAMD-26-Project/.metadata/.plugins/com.equo.chromium/cefcache/Default/shared_proto_db/MANIFEST-000001
+2026/05/09-20:43:29.372 1c203 Reusing MANIFEST /Users/tomstehling/AAMD-26-Project/.metadata/.plugins/com.equo.chromium/cefcache/Default/shared_proto_db/MANIFEST-000001
+2026/05/09-20:43:29.373 1c203 Recovering log #23
+2026/05/09-20:43:29.374 1c203 Reusing old log /Users/tomstehling/AAMD-26-Project/.metadata/.plugins/com.equo.chromium/cefcache/Default/shared_proto_db/000023.log 
+2026/05/09-20:57:50.802 1c203 Level-0 table #26: started
+2026/05/09-20:57:50.815 1c203 Level-0 table #26: 742829 bytes OK
+2026/05/09-20:57:50.839 1c203 Delete type=0 #23
+2026/05/09-20:57:50.849 17d03 Compacting 4@0 + 2@1 files
+2026/05/09-20:57:50.856 17d03 Generated table #27@0: 18 keys, 249433 bytes
+2026/05/09-20:57:50.856 17d03 Compacted 4@0 + 2@1 files => 249433 bytes
+2026/05/09-20:57:50.868 17d03 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/09-20:57:50.870 17d03 Delete type=2 #15
+2026/05/09-20:57:50.870 17d03 Delete type=2 #17
+2026/05/09-20:57:50.870 17d03 Delete type=2 #20
+2026/05/09-20:57:50.870 17d03 Delete type=2 #22
+2026/05/09-20:57:50.871 17d03 Delete type=2 #26
+2026/05/09-20:57:50.871 17d03 Delete type=2 #19
+2026/05/09-21:09:04.681 1aa03 Level-0 table #29: started
+2026/05/09-21:09:04.696 1aa03 Level-0 table #29: 550806 bytes OK
+2026/05/09-21:09:04.713 1aa03 Delete type=0 #25
+2026/05/09-21:12:39.281 17d03 Level-0 table #31: started
+2026/05/09-21:12:39.309 17d03 Level-0 table #31: 461894 bytes OK
+2026/05/09-21:12:39.327 17d03 Delete type=0 #28
+2026/05/09-21:13:25.741 17d03 Level-0 table #33: started
+2026/05/09-21:13:25.750 17d03 Level-0 table #33: 458268 bytes OK
+2026/05/09-21:13:25.763 17d03 Delete type=0 #30
+2026/05/09-21:37:25.770 1aa03 Level-0 table #35: started
+2026/05/09-21:37:25.781 1aa03 Level-0 table #35: 445250 bytes OK
+2026/05/09-21:37:25.796 1aa03 Delete type=0 #32
+2026/05/09-21:37:25.797 1aa03 Compacting 4@0 + 1@1 files
+2026/05/09-21:37:25.821 1aa03 Generated table #36@0: 21 keys, 705081 bytes
+2026/05/09-21:37:25.822 1aa03 Compacted 4@0 + 1@1 files => 705081 bytes
+2026/05/09-21:37:25.836 1aa03 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/09-21:37:25.841 1aa03 Delete type=2 #29
+2026/05/09-21:37:25.842 1aa03 Delete type=2 #35
+2026/05/09-21:37:25.843 1aa03 Delete type=2 #33
+2026/05/09-21:37:25.843 1aa03 Delete type=2 #27
+2026/05/09-21:37:25.843 1aa03 Delete type=2 #31
+2026/05/09-21:37:35.836 17d03 Level-0 table #38: started
+2026/05/09-21:37:35.845 17d03 Level-0 table #38: 757118 bytes OK
+2026/05/09-21:37:35.857 17d03 Delete type=0 #34
+2026/05/09-21:37:37.354 17d03 Level-0 table #40: started
+2026/05/09-21:37:37.362 1c203 Current memtable full; waiting...
+2026/05/09-21:37:37.376 17d03 Level-0 table #40: 757154 bytes OK
+2026/05/09-21:37:37.394 17d03 Delete type=0 #37
+2026/05/09-21:37:37.396 17d03 Level-0 table #42: started
+2026/05/09-21:37:37.425 17d03 Level-0 table #42: 757274 bytes OK
+2026/05/09-21:37:37.440 17d03 Delete type=0 #39
+2026/05/09-21:38:51.459 1aa03 Level-0 table #44: started
+2026/05/09-21:38:51.485 1aa03 Level-0 table #44: 757271 bytes OK
+2026/05/09-21:38:51.501 1aa03 Delete type=0 #41
+2026/05/09-21:38:51.502 1aa03 Compacting 4@0 + 1@1 files
+2026/05/09-21:38:51.513 1aa03 Generated table #45@0: 22 keys, 1462280 bytes
+2026/05/09-21:38:51.518 1aa03 Compacted 4@0 + 1@1 files => 1462280 bytes
+2026/05/09-21:38:51.535 1aa03 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/09-21:38:51.536 1aa03 Delete type=2 #38
+2026/05/09-21:38:51.536 1aa03 Delete type=2 #36
+2026/05/09-21:38:51.536 1aa03 Delete type=2 #42
+2026/05/09-21:38:51.537 1aa03 Delete type=2 #40
+2026/05/09-21:38:51.537 1aa03 Delete type=2 #44
+2026/05/09-21:39:06.238 1aa03 Level-0 table #47: started
+2026/05/09-21:39:06.251 1aa03 Level-0 table #47: 378238 bytes OK
+2026/05/09-21:39:06.271 1aa03 Delete type=0 #43

@@ -1,0 +1,106 @@
+2026-05-09 14:16:11,020 : INFO  : main :  : NodeLogger :  :  : #########################################################################################
+2026-05-09 14:16:11,027 : INFO  : main :  : NodeLogger :  :  : #                                                                                       #
+2026-05-09 14:16:11,027 : INFO  : main :  : NodeLogger :  :  : # Welcome to KNIME Analytics Platform v5.11.0.v202603030810 (Build March 03, 2026)      #
+2026-05-09 14:16:11,027 : INFO  : main :  : NodeLogger :  :  : # Based on Eclipse, http://www.eclipse.org                                              #
+2026-05-09 14:16:11,027 : INFO  : main :  : NodeLogger :  :  : #                                                                                       #
+2026-05-09 14:16:11,027 : INFO  : main :  : NodeLogger :  :  : #########################################################################################
+2026-05-09 14:16:11,027 : INFO  : main :  : NodeLogger :  :  : #                                                                                       #
+2026-05-09 14:16:11,028 : INFO  : main :  : NodeLogger :  :  : # Copyright by KNIME AG, Zurich, Switzerland and others.                                #
+2026-05-09 14:16:11,028 : INFO  : main :  : NodeLogger :  :  : # Website: http://www.knime.com                                                         #
+2026-05-09 14:16:11,028 : INFO  : main :  : NodeLogger :  :  : # E-mail: contact@knime.com                                                             #
+2026-05-09 14:16:11,028 : INFO  : main :  : NodeLogger :  :  : #                                                                                       #
+2026-05-09 14:16:11,028 : INFO  : main :  : NodeLogger :  :  : #########################################################################################
+2026-05-09 14:16:11,028 : INFO  : main :  : NodeLogger :  :  : # For more details see the KNIME log file:                                              #
+2026-05-09 14:16:11,028 : INFO  : main :  : NodeLogger :  :  : # /Users/tomstehling/AAMD-26-Project/clustering/.metadata/knime/knime.log
+2026-05-09 14:16:11,028 : INFO  : main :  : NodeLogger :  :  : #---------------------------------------------------------------------------------------#
+2026-05-09 14:16:11,073 : INFO  : main :  : NodeLogger :  :  : # logging date=Sat May 09 14:16:11 CEST 2026
+2026-05-09 14:16:11,073 : INFO  : main :  : NodeLogger :  :  : # java.version=21.0.9
+2026-05-09 14:16:11,074 : INFO  : main :  : NodeLogger :  :  : # java.vm.version=21.0.9+10-LTS
+2026-05-09 14:16:11,074 : INFO  : main :  : NodeLogger :  :  : # java.vendor=Eclipse Adoptium
+2026-05-09 14:16:11,074 : INFO  : main :  : NodeLogger :  :  : # os.name=Mac OS X
+2026-05-09 14:16:11,074 : INFO  : main :  : NodeLogger :  :  : # os.arch=x86_64
+2026-05-09 14:16:11,074 : INFO  : main :  : NodeLogger :  :  : # number of CPUs=4
+2026-05-09 14:16:11,075 : INFO  : main :  : NodeLogger :  :  : # assertions=off
+2026-05-09 14:16:11,301 : INFO  : main :  : NodeLogger :  :  : # host=Toms-MacBook-Pro.local
+2026-05-09 14:16:11,316 : INFO  : main :  : NodeLogger :  :  : # username=tomstehling
+2026-05-09 14:16:11,316 : INFO  : main :  : NodeLogger :  :  : # max mem=2048MB
+2026-05-09 14:16:11,317 : INFO  : main :  : NodeLogger :  :  : # application=org.knime.product.KNIME_APPLICATION
+2026-05-09 14:16:11,334 : INFO  : main :  : NodeLogger :  :  : # KNID=11-f2cbba5de1f9f633-01-1f5776136303d639
+2026-05-09 14:16:11,334 : INFO  : main :  : NodeLogger :  :  : #########################################################################################
+2026-05-09 14:15:51,244 : INFO  : main :  : RegisterBouncyCastleProvider :  :  : Added BouncyCastleProvider to Java Security providers
+2026-05-09 14:16:17,883 : INFO  : main :  : StringHistory :  :  : History file '/Users/tomstehling/AAMD-26-Project/clustering/.metadata/knime/history_database_drivers.txt' does not exist.
+2026-05-09 14:16:17,883 : INFO  : main :  : StringHistory :  :  : History file '/Users/tomstehling/AAMD-26-Project/clustering/.metadata/knime/history_database_urls.txt' does not exist.
+2026-05-09 14:16:23,405 : INFO  : main :  : ProcessWatchdog :  :  : KNIME Process Watchdog memory limit not configured
+2026-05-09 14:16:23,406 : INFO  : main :  : ProcessWatchdog :  :  : External process memory watchdog is disabled, because the memory limit is set to -1
+2026-05-09 14:16:24,300 : INFO  : Node Repository Initializer :  : MovingAggregationNodeFactory :  :  : Modern dialog for Moving Aggregator node can be enabled via system property "org.knime.base.node.preproc.groupby.dialog". Note: This property will be removed in a future version.
+
+2026-05-09 14:16:24,326 : INFO  : Node Repository Initializer :  : StringHistory :  :  : History file '/Users/tomstehling/AAMD-26-Project/clustering/.metadata/knime/history_string2date-formats.txt' does not exist.
+2026-05-09 14:16:25,693 : INFO  : main :  : StringHistory :  :  : History file '/Users/tomstehling/AAMD-26-Project/clustering/.metadata/knime/history_org.knime.kerberos.name.txt' does not exist.
+2026-05-09 14:16:28,278 : INFO  : main :  : KnimeBrowserView :  :  : %cinfo%c Injecting global logger 
+      background: #00BCD4;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      (source: https://org.knime.ui.java/assets/index-qa2z6KdO.js; line: 105)
+2026-05-09 14:16:33,895 : INFO  : Node Repository Initializer :  : ColumnAggregatorNodeFactory :  :  : Modern dialog for Column Aggregator node can be enabled via system property "org.knime.base.node.preproc.groupby.dialog". Note: This property will be removed in a future version.
+
+2026-05-09 14:16:34,593 : INFO  : Node Repository Initializer :  : StringHistory :  :  : History file '/Users/tomstehling/AAMD-26-Project/clustering/.metadata/knime/history_createFileNameHistoryKey.txt' does not exist.
+2026-05-09 14:16:34,697 : INFO  : Node Repository Initializer :  : GroupByNodeFactory :  :  : Modern dialog for GroupBy node can be enabled via system property "org.knime.base.node.preproc.groupby.dialog". Note: This property will be removed in a future version.
+
+2026-05-09 14:16:35,398 : INFO  : Node Repository Initializer :  : Pivot2NodeFactory :  :  : Modern dialog for Pivot node can be enabled via system property "org.knime.base.node.preproc.groupby.dialog". Note: This property will be removed in a future version.
+
+2026-05-09 14:16:39,282 : INFO  : Node Repository Initializer :  : DBDriverRegistry :  :  : Could not find any driver for DBType: DBType(id=oracle, name=Oracle, description=null)
+2026-05-09 14:16:39,329 : INFO  : Node Repository Initializer :  : DBDriverRegistry :  :  : Could not find any driver for DBType: DBType(id=oracle, name=Oracle, description=null)
+2026-05-09 14:16:39,347 : INFO  : Node Repository Initializer :  : DBDriverRegistry :  :  : Could not find any driver for DBType: DBType(id=oracle, name=Oracle, description=null)
+2026-05-09 14:16:39,363 : INFO  : Node Repository Initializer :  : DBDriverRegistry :  :  : Could not find any driver for DBType: DBType(id=vertica, name=Vertica, description=Vertica Analytics Platform)
+2026-05-09 14:16:39,363 : INFO  : Node Repository Initializer :  : DBDriverRegistry :  :  : Could not find any driver for DBType: DBType(id=vertica, name=Vertica, description=Vertica Analytics Platform)
+2026-05-09 14:16:39,368 : INFO  : Node Repository Initializer :  : DBDriverRegistry :  :  : Could not find any driver for DBType: DBType(id=vertica, name=Vertica, description=Vertica Analytics Platform)
+2026-05-09 14:16:41,031 : INFO  : Node Repository Initializer :  : StringHistory :  :  : History file '/Users/tomstehling/AAMD-26-Project/clustering/.metadata/knime/history_jfc-date-formats.txt' does not exist.
+2026-05-09 14:17:07,364 : ERROR : main :  : KnimeBrowserView :  :  : %cerror%c RPC Client:: Error RPC request 
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      Error: Failed to fetch folder contents
+ * Expected item 'root' to be a folder, found 'Workflow'. (source: https://org.knime.ui.java/assets/index-qa2z6KdO.js; line: 105)
+2026-05-09 14:17:07,549 : ERROR : main :  : KnimeBrowserView :  :  : %cerror%c RPC Client:: Error RPC request 
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      Error: Failed to fetch folder contents
+ * Expected item 'root' to be a folder, found 'Workflow'. (source: https://org.knime.ui.java/assets/index-qa2z6KdO.js; line: 105)
+2026-05-09 14:17:07,550 : ERROR : main :  : KnimeBrowserView :  :  : %cerror%c Error captured hook ::  
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      [object Object] (source: https://org.knime.ui.java/assets/index-qa2z6KdO.js; line: 105)
+2026-05-09 14:17:15,652 : ERROR : main :  : KnimeBrowserView :  :  : %cerror%c RPC Client:: Error RPC request 
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      Error: Failed to fetch folder contents
+ * Expected item 'root' to be a folder, found 'Workflow'. (source: https://org.knime.ui.java/assets/index-qa2z6KdO.js; line: 105)
+2026-05-09 14:17:15,691 : ERROR : main :  : KnimeBrowserView :  :  : %cerror%c RPC Client:: Error RPC request 
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      Error: Failed to fetch folder contents
+ * Expected item 'root' to be a folder, found 'Workflow'. (source: https://org.knime.ui.java/assets/index-qa2z6KdO.js; line: 105)
+2026-05-09 14:17:15,691 : ERROR : main :  : KnimeBrowserView :  :  : %cerror%c Error captured hook ::  
+      background: #c0392b;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      [object Object] (source: https://org.knime.ui.java/assets/index-qa2z6KdO.js; line: 105)
+2026-05-09 14:17:18,846 : INFO  : KNIME shutdown hooks - org.knime.core.util.FileUtil$$Lambda/0x00000001005017e8 :  : FileUtil :  :  : Deleting 1 temporary files.

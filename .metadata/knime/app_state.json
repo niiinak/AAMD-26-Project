@@ -1,0 +1,48 @@
+{
+  "version" : "5.11.0.v202603030810",
+  "projects" : [ {
+    "name" : "clustering",
+    "active" : true,
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "relativePath" : "clustering"
+    }
+  }, {
+    "name" : "join_clusters",
+    "active" : false,
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "relativePath" : "join_clusters"
+    }
+  } ],
+  "mostRecentlyUsedProjects" : [ {
+    "name" : "clustering",
+    "timeUsed" : "2026-05-08T12:07:53.442064+02:00",
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "projectType" : "WORKFLOW",
+      "relativePath" : "clustering"
+    }
+  }, {
+    "name" : "join_clusters",
+    "timeUsed" : "2026-05-09T15:48:38.193983+02:00",
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "projectType" : "WORKFLOW",
+      "relativePath" : "join_clusters"
+    }
+  }, {
+    "name" : "ElbowMethod",
+    "timeUsed" : "2026-05-09T19:45:44.86289+02:00",
+    "origin" : {
+      "providerId" : "My-KNIME-Hub",
+      "spaceId" : "*kKuPnTya8l7vLYK2",
+      "projectType" : "WORKFLOW",
+      "itemId" : "*y5rl9SLV4gxy6KYm"
+    }
+  } ]
+}

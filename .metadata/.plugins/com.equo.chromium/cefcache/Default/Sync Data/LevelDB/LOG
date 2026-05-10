@@ -1,2 +1,3 @@
-2026/05/08-12:07:07.926 18d03 Creating DB /Users/tomstehling/AAMD-26-Project/.metadata/.plugins/com.equo.chromium/cefcache/Default/Sync Data/LevelDB since it was missing.
-2026/05/08-12:07:08.004 18d03 Reusing MANIFEST /Users/tomstehling/AAMD-26-Project/.metadata/.plugins/com.equo.chromium/cefcache/Default/Sync Data/LevelDB/MANIFEST-000001
+2026/05/09-20:43:23.637 1c203 Reusing MANIFEST /Users/tomstehling/AAMD-26-Project/.metadata/.plugins/com.equo.chromium/cefcache/Default/Sync Data/LevelDB/MANIFEST-000001
+2026/05/09-20:43:23.661 1c203 Recovering log #3
+2026/05/09-20:43:23.662 1c203 Reusing old log /Users/tomstehling/AAMD-26-Project/.metadata/.plugins/com.equo.chromium/cefcache/Default/Sync Data/LevelDB/000003.log 
